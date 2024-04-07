@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Editor_Code_React/static/css/main.1bb623a1.css",
+    "main.js": "/Editor_Code_React/static/js/main.6216d6a4.js",
+    "index.html": "/Editor_Code_React/index.html",
+    "main.1bb623a1.css.map": "/Editor_Code_React/static/css/main.1bb623a1.css.map",
+    "main.6216d6a4.js.map": "/Editor_Code_React/static/js/main.6216d6a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb623a1.css",
+    "static/js/main.6216d6a4.js"
+  ]
+}
